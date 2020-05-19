@@ -1,6 +1,6 @@
 # Mi Card
 
-Mi Card is a personal buissness card you can load on iOS and Android devices. You can contact me at the info provided in the app :grin:
+Mi Card is a personal buisness card you can load on iOS and Android devices. You can contact me at the info provided in the app :grin:
 
 ## What I learned
 
